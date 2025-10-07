@@ -1,0 +1,6 @@
+Test Maven project
+<scm>
+<connection>scm:git:https://github.com/username/my-maven-project.git</connection>
+<developerConnection>scm:git:ssh://github.com/username/my-maven-project.git</developerConnection>
+<url>https://github.com/username/my-maven-project</url>
+</scm>
